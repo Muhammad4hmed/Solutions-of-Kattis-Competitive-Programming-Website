@@ -4,6 +4,6 @@
 <b>Problems:</b> 
 
 <ol>
-<li> Eight Queens <a href="https://github.com/Muhammad4hmed/Solutions-of-Kattis-Competitive-Programming-Website/blob/master/Solutions/Eight%20Queens.cpp">Solution in C++</a> </li>
-<li> T9 Spelling <a href="https://github.com/Muhammad4hmed/Solutions-of-Kattis-Competitive-Programming-Website/blob/master/Solutions/T9%20Spelling.cpp">Solution in C++</a> </li>
+  <li> <a href="https://open.kattis.com/problems/8queens">Eight Queens</a> :: <a href="https://github.com/Muhammad4hmed/Solutions-of-Kattis-Competitive-Programming-Website/blob/master/Solutions/Eight%20Queens.cpp">Solution in C++</a> </li>
+  <li> <a href="https://open.kattis.com/problems/t9spelling">T9 Spelling</a> :: <a href="https://github.com/Muhammad4hmed/Solutions-of-Kattis-Competitive-Programming-Website/blob/master/Solutions/T9%20Spelling.cpp">Solution in C++</a> </li>
 </ol>
