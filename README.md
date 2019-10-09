@@ -1,5 +1,6 @@
 # Solutions-of-Kattis-Competitive-Programming-Website
-<i>Here I will be posting the solutions to Kattis problems as soon as I solve them.</i>
+<i>Here I will be posting the solutions to Kattis problems as soon as I solve them.</i> <br>
+<i><b>My Kattis Profile: <a href="https://open.kattis.com/users/muhammad-ahmed">"Muhammad Ahmed"</a></b></i>
 
 <b>Problems:</b> 
 
