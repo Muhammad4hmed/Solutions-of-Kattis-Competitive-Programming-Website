@@ -9,5 +9,5 @@
   <li> <a href="https://open.kattis.com/problems/t9spelling">T9 Spelling</a> :: <a href="https://github.com/Muhammad4hmed/Solutions-of-Kattis-Competitive-Programming-Website/blob/master/Solutions/T9%20Spelling.cpp">Solution in C++</a> </li>
   <li> <a href="https://open.kattis.com/problems/haypoints">Hay Points</a> :: <a href="https://github.com/Muhammad4hmed/Solutions-of-Kattis-Competitive-Programming-Website/blob/master/Solutions/Hay%20Points.cpp">Solution in C++</a> </li>
   <li> <a href="https://open.kattis.com/problems/cd">CD</a> :: <a href="https://github.com/Muhammad4hmed/Solutions-of-Kattis-Competitive-Programming-Website/blob/master/Solutions/CD.cpp">Solution in C++</a> </li>
-
+  <li> <a href="https://open.kattis.com/problems/fruitbaskets">Fruit Baskets</a> :: <a href="https://github.com/Muhammad4hmed/Solutions-of-Kattis-Competitive-Programming-Website/blob/master/Solutions/Fruit%20Baskets.cpp">Solution in C++</a> </li>
 </ol>
